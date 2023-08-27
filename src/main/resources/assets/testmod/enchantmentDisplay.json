@@ -1,0 +1,2509 @@
+{
+  "less_damage_nearby_players": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-1% \u00a77damage per nearby",
+        "\u00a77player (max 10 players)"
+      ],
+      [
+        "\u00a77Receive \u00a79-1.5% \u00a77damage per",
+        "\u00a77nearby player (max 10 players)"
+      ],
+      [
+        "\u00a77Receive \u00a79-2% \u00a77damage per nearby",
+        "\u00a77player (max 10 players)"
+      ]
+    ],
+    "Name": "\u00a79\"Not\" Gladiator"
+  },
+  "immune_true_damage": {
+    "Descriptions": [
+      [
+        "\u00a77You are immune to true damage"
+      ],
+      [
+        "\u00a77You do not take true damage and",
+        "\u00a77instead reflect \u00a7e25% \u00a77of it to",
+        "\u00a77your attacker"
+      ],
+      [
+        "\u00a77You do not take true damage and",
+        "\u00a77instead reflect \u00a7e50% \u00a77of it to",
+        "\u00a77your attacker"
+      ]
+    ],
+    "Name": "\u00a79Mirror"
+  },
+  "instaboom_tnt": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7c1 Instaboom TNT\u00a77. It",
+        "\u00a77explodes instantly and deals",
+        "\u00a77\u00a7c0.25\u2764 \u00a77to enemies in a 4 blocks",
+        "\u00a77radius. Gain \u00a7c+1 Instaboom TNT",
+        "\u00a7c\u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7c1 Instaboom TNT\u00a77. It",
+        "\u00a77explodes instantly and deals",
+        "\u00a77\u00a7c0.5\u2764 \u00a77to enemies in a 4 blocks",
+        "\u00a77radius. Gain \u00a7c+2 Instaboom TNT",
+        "\u00a7c\u00a77on kill",
+        "\u00a77Consecutive uses \u00a7churt \u00a77you!"
+      ],
+      [
+        "\u00a77Spawn with \u00a7c2 Instaboom TNT\u00a77. It",
+        "\u00a77explodes instantly and deals",
+        "\u00a77\u00a7c0.75\u2764 \u00a77to enemies in a 4 blocks",
+        "\u00a77radius. Gain \u00a7c+2 Instaboom TNT",
+        "\u00a7c\u00a77on kill",
+        "\u00a77Consecutive uses \u00a7churt \u00a77you!"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Instaboom"
+  },
+  "eggs": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7a8 eggs\u00a77. Gain \u00a7a+4",
+        "\u00a7aeggs \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7a8 eggs\u00a77. Gain \u00a7a+8",
+        "\u00a7aeggs \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7a16 eggs\u00a77. Gain \u00a7a+16",
+        "\u00a7aeggs \u00a77on kill"
+      ]
+    ],
+    "Name": "\u00a79Eggs"
+  },
+  "paparazzi": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a7d+50% major event \u00a77bonus",
+        "\u00a77rewards. Consume \u00a7c2 lives \u00a77of",
+        "\u00a77this item per event."
+      ],
+      [
+        "\u00a77Earn \u00a7d+100% major event \u00a77bonus",
+        "\u00a77rewards. Consume \u00a7c2 lives \u00a77of",
+        "\u00a77this item per event."
+      ],
+      [
+        "\u00a77Earn \u00a7d+150% major event \u00a77bonus",
+        "\u00a77rewards. Consume \u00a7c2 lives \u00a77of",
+        "\u00a77this item per event."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Paparazzi"
+  },
+  "trash_panda": {
+    "Descriptions": [
+      [
+        "\u00a77Respawn in the sewers. Can open",
+        "\u00a77spawn menus remotely.",
+        "\u00a7bRight-click to open menus!"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Trash Panda"
+  },
+  "gold_per_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+4g \u00a77per kill"
+      ],
+      [
+        "\u00a77Earn \u00a76+8g \u00a77per kill"
+      ],
+      [
+        "\u00a77Earn \u00a76+12g \u00a77per kill"
+      ]
+    ],
+    "Name": "\u00a79Gold Bump"
+  },
+  "gold_strictly_kills": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+7g \u00a77on kill (assists",
+        "\u00a77excluded)"
+      ],
+      [
+        "\u00a77Earn \u00a76+12g \u00a77on kill (assists",
+        "\u00a77excluded)"
+      ],
+      [
+        "\u00a77Earn \u00a76+18g \u00a77on kill (assists",
+        "\u00a77excluded)"
+      ]
+    ],
+    "Name": "\u00a79Moctezuma"
+  },
+  "melee_execute": {
+    "Descriptions": [
+      [
+        "\u00a77Hitting an enemy to below \u00a7c1\u2764",
+        "\u00a7c\u00a77instantly kills them"
+      ],
+      [
+        "\u00a77Hitting an enemy to below \u00a7c1.5\u2764",
+        "\u00a7c\u00a77instantly kills them"
+      ],
+      [
+        "\u00a77Hitting an enemy to below \u00a7c2\u2764",
+        "\u00a7c\u00a77instantly kills them"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Executioner"
+  },
+  "gold_boost": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+15% gold (g) \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a76+30% gold (g) \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a76+45% gold (g) \u00a77from kills"
+      ]
+    ],
+    "Name": "\u00a79Gold Boost"
+  },
+  "absorption_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a76+0.5\u2764 \u00a77absorption on kill",
+        "\u00a77(max \u00a764\u2764\u00a77)"
+      ],
+      [
+        "\u00a77Gain \u00a76+1\u2764 \u00a77absorption on kill",
+        "\u00a77(max \u00a765\u2764\u00a77)"
+      ],
+      [
+        "\u00a77Gain \u00a76+2\u2764 \u00a77absorption on kill",
+        "\u00a77(max \u00a766\u2764\u00a77)"
+      ]
+    ],
+    "Name": "\u00a79Golden Heart"
+  },
+  "max_bounty_self_claim": {
+    "Descriptions": [
+      [
+        "\u00a77Upon reaching a \u00a76\u00a765,000g",
+        "\u00a76\u00a77bounty, clear it and gain",
+        "\u00a77\u00a76+\u00a762,000g\u00a77. Consumes 1 life of",
+        "\u00a77this item"
+      ],
+      [
+        "\u00a77Upon reaching a \u00a76\u00a765,000g",
+        "\u00a76\u00a77bounty, clear it and gain",
+        "\u00a77\u00a76+\u00a763,000g\u00a77. Consumes 1 life of",
+        "\u00a77this item"
+      ],
+      [
+        "\u00a77Upon reaching a \u00a76\u00a765,000g",
+        "\u00a76\u00a77bounty, clear it and gain",
+        "\u00a77\u00a76+\u00a765,000g\u00a77. Consumes 1 life of",
+        "\u00a77this item"
+      ]
+    ],
+    "Name": "\u00a79Self-checkout"
+  },
+  "double_jump": {
+    "Descriptions": [
+      [
+        "\u00a77You can double-jump. (20s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77You can double-jump. (10s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77You can double-jump. (5s",
+        "\u00a77cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Double-jump"
+  },
+  "increase_armor_drops": {
+    "Descriptions": [
+      [
+        "\u00a77Increases the chance for armor",
+        "\u00a77pieces to drop to 40% (normally",
+        "\u00a7730%)"
+      ],
+      [
+        "\u00a77Increases the chance for armor",
+        "\u00a77pieces to drop to 55% (normally",
+        "\u00a7730%)"
+      ],
+      [
+        "\u00a77Increases the chance for armor",
+        "\u00a77pieces to drop to 75% (normally",
+        "\u00a7730%)"
+      ]
+    ],
+    "Name": "\u00a79Lodbrok"
+  },
+  "melee_damage_vs_bows": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+10% \u00a77damage vs. players",
+        "\u00a77holding a bow"
+      ],
+      [
+        "\u00a77Deal \u00a7c+25% \u00a77damage vs. players",
+        "\u00a77holding a bow"
+      ],
+      [
+        "\u00a77Deal \u00a7c+40% \u00a77damage vs. players",
+        "\u00a77holding a bow"
+      ]
+    ],
+    "Name": "\u00a79Beat the Spammers"
+  },
+  "streak_xp": {
+    "Descriptions": [
+      [
+        "\u00a77\u00a7b+20% \u00a77XP from streak XP bonus"
+      ],
+      [
+        "\u00a77Earn \u00a7b+40% XP \u00a77from streak XP",
+        "\u00a77bonus and \u00a7b+50 max XP \u00a77per kill"
+      ],
+      [
+        "\u00a77Earn \u00a7b+60% XP \u00a77from streak XP",
+        "\u00a77bonus and \u00a7b+100 max XP \u00a77per kill"
+      ]
+    ],
+    "Name": "\u00a79Sweaty"
+  },
+  "melee_heal_on_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Heal for \u00a7c4% \u00a77of damage dealt up",
+        "\u00a77to \u00a7c1.5\u2764"
+      ],
+      [
+        "\u00a77Heal for \u00a7c8% \u00a77of damage dealt up",
+        "\u00a77to \u00a7c1.5\u2764"
+      ],
+      [
+        "\u00a77Heal for \u00a7c13% \u00a77of damage dealt up",
+        "\u00a77to \u00a7c1.5\u2764"
+      ]
+    ],
+    "Name": "\u00a79Lifesteal"
+  },
+  "xp_boost": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a7b+10% XP \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a7b+20% XP \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a7b+30% XP \u00a77from kills"
+      ]
+    ],
+    "Name": "\u00a79XP Boost"
+  },
+  "gold_per_diamond_piece": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+\u00a7630g \u00a77per \u00a7bdiamond",
+        "\u00a7b\u00a77pieces your victims wear"
+      ],
+      [
+        "\u00a77Earn \u00a76+\u00a7660g \u00a77per \u00a7bdiamond",
+        "\u00a7b\u00a77pieces your victims wear"
+      ],
+      [
+        "\u00a77Earn \u00a76+\u00a7690g \u00a77per \u00a7bdiamond",
+        "\u00a7b\u00a77pieces your victims wear"
+      ]
+    ],
+    "Name": "\u00a79Sierra"
+  },
+  "pickpocket": {
+    "Descriptions": [
+      [
+        "\u00a77Steal \u00a76\u00a7615g \u00a77on melee hit (25s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77Steal \u00a76\u00a7620g \u00a77on melee hit (20s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77Steal \u00a76\u00a7625g \u00a77on melee hit (13s",
+        "\u00a77cooldown)"
+      ]
+    ],
+    "Name": "\u00a79Pitpocket"
+  },
+  "somber": {
+    "Descriptions": [
+      [
+        "\u00a77You are unaffected by mystical",
+        "\u00a77enchantments."
+      ]
+    ],
+    "Name": "\u00a79Somber"
+  },
+  "venom": {
+    "Descriptions": [
+      [
+        "\u00a77Every \u00a7ethird \u00a77strike \u00a7apoisons",
+        "\u00a7a\u00a77enemies, disabling their mystic",
+        "\u00a77enchants for \u00a7512 seconds.",
+        "\u00a77Also \u00a7apoisons \u00a77yourself!"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Combo: Venom"
+  },
+  "misery": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+0.5\u2764 \u00a77true damage against",
+        "\u00a77players wearing leather armor but",
+        "\u00a77take \u00a7c0.3\u2764\u00a77"
+      ]
+    ],
+    "Name": "\u00a79Misery"
+  },
+  "spite": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+20% damage \u00a77but receive",
+        "\u00a77\u00a7c+5% damage \u00a77versus players",
+        "\u00a77wearing leather armor"
+      ]
+    ],
+    "Name": "\u00a79Spite"
+  },
+  "melee_combo_heal": {
+    "Descriptions": [
+      [
+        "\u00a77Every \u00a7efourth \u00a77strike heals",
+        "\u00a77\u00a7c0.4\u2764 \u00a77and grants \u00a760.4\u2764",
+        "\u00a76\u00a77absorption"
+      ],
+      [
+        "\u00a77Every \u00a7efourth \u00a77strike heals",
+        "\u00a77\u00a7c0.8\u2764 \u00a77and grants \u00a760.8\u2764",
+        "\u00a76\u00a77absorption"
+      ],
+      [
+        "\u00a77Every \u00a7efourth \u00a77strike heals",
+        "\u00a77\u00a7c1.2\u2764 \u00a77and grants \u00a761.2\u2764",
+        "\u00a76\u00a77absorption"
+      ]
+    ],
+    "Name": "\u00a79Combo: Heal"
+  },
+  "melee_combo_speed": {
+    "Descriptions": [
+      [
+        "\u00a77Every \u00a7efourth \u00a77strike gain",
+        "\u00a77\u00a7eSpeed I \u00a77(3s)"
+      ],
+      [
+        "\u00a77Every \u00a7ethird \u00a77strike gain",
+        "\u00a77\u00a7eSpeed II \u00a77(4s)"
+      ],
+      [
+        "\u00a77Every \u00a7ethird \u00a77strike gain",
+        "\u00a77\u00a7eSpeed II \u00a77(5s)"
+      ]
+    ],
+    "Name": "\u00a79Combo: Swift"
+  },
+  "gold_per_crit": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+\u00a762g \u00a77per critical strike"
+      ],
+      [
+        "\u00a77Earn \u00a76+\u00a764g \u00a77per critical strike"
+      ],
+      [
+        "\u00a77Earn \u00a76+\u00a766g \u00a77per critical strike"
+      ]
+    ],
+    "Name": "\u00a79Critically Rich"
+  },
+  "melee_damage_vs_diamond": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+6% \u00a77damage vs. players",
+        "\u00a77wearing diamond armor"
+      ],
+      [
+        "\u00a77Deal \u00a7c+12% \u00a77damage vs. players",
+        "\u00a77wearing diamond armor"
+      ],
+      [
+        "\u00a77Deal \u00a7c+25% \u00a77damage vs. players",
+        "\u00a77wearing diamond armor"
+      ]
+    ],
+    "Name": "\u00a79Diamond Stomp"
+  },
+  "melee_damage_vs_leather": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+5% \u00a77damage vs. players",
+        "\u00a77wearing leather armor"
+      ],
+      [
+        "\u00a77Deal \u00a7c+9% \u00a77damage vs. players",
+        "\u00a77wearing leather armor"
+      ],
+      [
+        "\u00a77Deal \u00a7c+16% \u00a77damage vs. players",
+        "\u00a77wearing leather armor"
+      ]
+    ],
+    "Name": "\u00a79Fancy Raider"
+  },
+  "melee_weakness": {
+    "Descriptions": [
+      [
+        "\u00a77Strikes apply \u00a7cWeakness V",
+        "\u00a7c\u00a77(lasts 0.2s, 2s cooldown)"
+      ],
+      [
+        "\u00a77Strikes apply \u00a7cWeakness VI",
+        "\u00a7c\u00a77(lasts 0.4s, 2s cooldown)"
+      ],
+      [
+        "\u00a77Strikes apply \u00a7cWeakness VII",
+        "\u00a7c\u00a77(lasts 0.5s, 2s cooldown)"
+      ]
+    ],
+    "Name": "\u00a79Crush"
+  },
+  "increased_blocking": {
+    "Descriptions": [
+      [
+        "\u00a77Blocking with your swords reduces",
+        "\u00a77received damage by \u00a7c0.5\u2764"
+      ],
+      [
+        "\u00a77Blocking with your swords reduces",
+        "\u00a77received damage by \u00a7c1\u2764"
+      ],
+      [
+        "\u00a77Blocking with your swords reduces",
+        "\u00a77received damage by \u00a7c2\u2764"
+      ]
+    ],
+    "Name": "\u00a79Bruiser"
+  },
+  "pants_radar": {
+    "Descriptions": [
+      [
+        "\u00a77Pants, golden swords and enchanted",
+        "\u00a77bows drop \u00a7d+30% \u00a77more frequently"
+      ],
+      [
+        "\u00a77Pants, golden swords and enchanted",
+        "\u00a77bows drop \u00a7d+60% \u00a77more frequently"
+      ],
+      [
+        "\u00a77Pants, golden swords and enchanted",
+        "\u00a77bows drop \u00a7d+90% \u00a77more frequently"
+      ]
+    ],
+    "Name": "\u00a79Pants Radar"
+  },
+  "melee_damage_when_close_low_players": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+2% \u00a77damage per other",
+        "\u00a77player below \u00a7c6\u2764 \u00a77within 12",
+        "\u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+4% \u00a77damage per other",
+        "\u00a77player below \u00a7c6\u2764 \u00a77within 12",
+        "\u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+7% \u00a77damage per other",
+        "\u00a77player below \u00a7c6\u2764 \u00a77within 12",
+        "\u00a77blocks"
+      ]
+    ],
+    "Name": "\u00a79Shark"
+  },
+  "melee_damage_when_absorption": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+5% \u00a77damage when you have",
+        "\u00a77absorption hearts"
+      ],
+      [
+        "\u00a77Deal \u00a7c+9% \u00a77damage when you have",
+        "\u00a77absorption hearts"
+      ],
+      [
+        "\u00a77Deal \u00a7c+15% \u00a77damage when you have",
+        "\u00a77absorption hearts"
+      ]
+    ],
+    "Name": "\u00a79Gold and Boosted"
+  },
+  "melee_damage_when_low": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+1% \u00a77damage per \u00a7c\u2764",
+        "\u00a7c\u00a77you're missing"
+      ],
+      [
+        "\u00a77Deal \u00a7c+2% \u00a77damage per \u00a7c\u2764",
+        "\u00a7c\u00a77you're missing"
+      ],
+      [
+        "\u00a77Deal \u00a7c+5% \u00a77damage per \u00a7c\u2764",
+        "\u00a7c\u00a77you're missing"
+      ]
+    ],
+    "Name": "\u00a79Pain Focus"
+  },
+  "melee_damage_when_on_grass": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+5% \u00a77damage when you or",
+        "\u00a77your victim are standing on grass"
+      ],
+      [
+        "\u00a77Deal \u00a7c+9% \u00a77damage when you or",
+        "\u00a77your victim are standing on grass"
+      ],
+      [
+        "\u00a77Deal \u00a7c+15% \u00a77damage when you or",
+        "\u00a77your victim are standing on grass"
+      ]
+    ],
+    "Name": "\u00a79Grasshopper"
+  },
+  "less_damage_vs_diamond_weapons": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-10% \u00a77damage from",
+        "\u00a77diamond weapons"
+      ],
+      [
+        "\u00a77Receive \u00a79-20% \u00a77damage from",
+        "\u00a77diamond weapons"
+      ],
+      [
+        "\u00a77Receive \u00a79-30% \u00a77damage from",
+        "\u00a77diamond weapons"
+      ]
+    ],
+    "Name": "\u00a79Diamond Allergy"
+  },
+  "overheal_enchant": {
+    "Descriptions": [
+      [
+        "\u00a77Can hold \u00a7a+1 healing \u00a77item"
+      ],
+      [
+        "\u00a77Can hold \u00a7a+2 healing \u00a77item"
+      ],
+      [
+        "\u00a77Can hold \u00a7a+3 healing \u00a77item"
+      ]
+    ],
+    "Name": "\u00a79Excess"
+  },
+  "less_damage_from_arrows": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-20% \u00a77damage from",
+        "\u00a77arrows"
+      ],
+      [
+        "\u00a77Receive \u00a79-40% \u00a77damage from",
+        "\u00a77arrows"
+      ],
+      [
+        "\u00a77Receive \u00a79-60% \u00a77damage from",
+        "\u00a77arrows"
+      ]
+    ],
+    "Name": "\u00a79Ring Armor"
+  },
+  "gold_per_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+1g \u00a77per hit (1s cooldown)"
+      ],
+      [
+        "\u00a77Earn \u00a76+2g \u00a77per hit (1s cooldown)"
+      ],
+      [
+        "\u00a77Earn \u00a76+3g \u00a77per hit (1s cooldown)"
+      ]
+    ],
+    "Name": "\u00a79Strike Gold"
+  },
+  "tnt": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7c1 TNT\u00a77. \u00a7cTNT",
+        "\u00a7c\u00a77explodes after 1.5 seconds and",
+        "\u00a77deals \u00a7c1\u2764 \u00a77in a 3 blocks radius.",
+        "\u00a77Gain \u00a7c+1 TNT \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7c2 TNT\u00a77. \u00a7cTNT",
+        "\u00a7c\u00a77explodes after 1.5 seconds and",
+        "\u00a77deals \u00a7c1.5\u2764 \u00a77in a 3 blocks",
+        "\u00a77radius. Gain \u00a7c+1 TNT \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7c3 TNT\u00a77. \u00a7cTNT",
+        "\u00a7c\u00a77explodes after 1.5 seconds and",
+        "\u00a77deals \u00a7c2\u2764 \u00a77in a 3 blocks radius.",
+        "\u00a77Gain \u00a7c+2 TNT \u00a77on kill"
+      ]
+    ],
+    "Name": "\u00a79TNT"
+  },
+  "damage_reduction": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-4% \u00a77damage"
+      ],
+      [
+        "\u00a77Receive \u00a79-6% \u00a77damage"
+      ],
+      [
+        "\u00a77Receive \u00a79-10% \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Protection"
+  },
+  "contract_rewards": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a76+30% gold \u00a77from contracts"
+      ],
+      [
+        "\u00a77Earn \u00a76+60% gold \u00a77from contracts"
+      ],
+      [
+        "\u00a77Earn \u00a76+100% gold \u00a77from contracts"
+      ]
+    ],
+    "Name": "\u00a79Negotiator"
+  },
+  "less_damage_vs_bounties": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-15% \u00a77damage from",
+        "\u00a77players with a bounty"
+      ],
+      [
+        "\u00a77Receive \u00a79-25% \u00a77damage from",
+        "\u00a77players with a bounty"
+      ],
+      [
+        "\u00a77Receive \u00a79-40% \u00a77damage from",
+        "\u00a77players with a bounty"
+      ]
+    ],
+    "Name": "\u00a79David and Goliath"
+  },
+  "bow_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+7% \u00a77bow damage"
+      ],
+      [
+        "\u00a77Deal \u00a7c+12% \u00a77bow damage"
+      ],
+      [
+        "\u00a77Deal \u00a7c+20% \u00a77bow damage"
+      ]
+    ],
+    "Name": "\u00a79Fletching"
+  },
+  "heal_on_shoot_self": {
+    "Descriptions": [
+      [
+        "\u00a77Shooting yourself heals you \u00a7c1.5\u2764"
+      ],
+      [
+        "\u00a77Shooting yourself heals you \u00a7c2.5\u2764",
+        "\u00a7c\u00a77(3s cd)"
+      ],
+      [
+        "\u00a77Shooting yourself heals you \u00a7c3.5\u2764"
+      ]
+    ],
+    "Name": "\u00a79What doesn't kill you"
+  },
+  "respawn_with_absorption": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a765\u2764 \u00a77absorption"
+      ],
+      [
+        "\u00a77Spawn with \u00a7610\u2764 \u00a77absorption"
+      ],
+      [
+        "\u00a77Spawn with \u00a7615\u2764 \u00a77absorption"
+      ]
+    ],
+    "Name": "\u00a79Respawn: Absorption"
+  },
+  "steaks_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Gain a \u00a72steak \u00a77instead of golden",
+        "\u00a77apples on kill. \u00a72Steaks \u00a77are",
+        "\u00a77tasty and have good fibers for",
+        "\u00a77your muscles. Can hold up to 8",
+        "\u00a77steaks"
+      ],
+      [
+        "\u00a77Gain a \u00a72steak \u00a77instead of golden",
+        "\u00a77apples on kill. \u00a72Steaks \u00a77are",
+        "\u00a77tasty and have good fibers for",
+        "\u00a77your muscles. Can hold up to 10",
+        "\u00a77steaks"
+      ],
+      [
+        "\u00a77Gain a \u00a72steak \u00a77instead of golden",
+        "\u00a77apples on kill. \u00a72Steaks \u00a77are",
+        "\u00a77tasty and have good fibers for",
+        "\u00a77your muscles. Can hold up to 12",
+        "\u00a77steaks"
+      ]
+    ],
+    "Name": "\u00a79Steaks"
+  },
+  "melee_gamble": {
+    "Descriptions": [
+      [
+        "\u00a77\u00a7d50% chance \u00a77to deal \u00a7c1\u2764 \u00a77true",
+        "\u00a77damage to whoever you hit, or to",
+        "\u00a77yourself"
+      ],
+      [
+        "\u00a77\u00a7d50% chance \u00a77to deal \u00a7c2\u2764 \u00a77true",
+        "\u00a77damage to whoever you hit, or to",
+        "\u00a77yourself"
+      ],
+      [
+        "\u00a77\u00a7d50% chance \u00a77to deal \u00a7c3\u2764 \u00a77true",
+        "\u00a77damage to whoever you hit, or to",
+        "\u00a77yourself"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Gamble!"
+  },
+  "melee_strike_after_block": {
+    "Descriptions": [
+      [
+        "\u00a77Blocking two hits from the same",
+        "\u00a77player empowers your next strike",
+        "\u00a77against them for \u00a7c+20% \u00a77damage",
+        "\u00a77and heals \u00a7c0.5\u2764"
+      ],
+      [
+        "\u00a77Blocking two hits from the same",
+        "\u00a77player empowers your next strike",
+        "\u00a77against them for \u00a7c+40% \u00a77damage",
+        "\u00a77and heals \u00a7c1\u2764"
+      ],
+      [
+        "\u00a77Blocking two hits from the same",
+        "\u00a77player empowers your next strike",
+        "\u00a77against them for \u00a7c+75% \u00a77damage",
+        "\u00a77and heals \u00a7c1.5\u2764"
+      ]
+    ],
+    "Name": "\u00a79Duelist"
+  },
+  "fishing_rod_enchant": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with a fishing rod"
+      ]
+    ],
+    "Name": "\u00a79Club Rod"
+  },
+  "water_bucket": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with a water bucket. It can",
+        "\u00a77pour up to 4 blocks of water, but",
+        "\u00a77can't pick it up. Water lasts 30",
+        "\u00a77seconds."
+      ]
+    ],
+    "Name": "\u00a79Portable Pond"
+  },
+  "increase_gold_pickup": {
+    "Descriptions": [
+      [
+        "\u00a77Picked up gold rewards \u00a76+10g"
+      ],
+      [
+        "\u00a77Picked up gold rewards \u00a76+20g"
+      ],
+      [
+        "\u00a77Picked up gold grants \u00a761\u2764 \u00a77and",
+        "\u00a77rewards \u00a76+30g"
+      ]
+    ],
+    "Name": "\u00a79Pebble"
+  },
+  "xp_per_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a7b+2 XP \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a7b+4 XP \u00a77from kills"
+      ],
+      [
+        "\u00a77Earn \u00a7b+6 XP \u00a77from kills"
+      ]
+    ],
+    "Name": "\u00a79XP Bump"
+  },
+  "blocking_cancels_projectiles": {
+    "Descriptions": [
+      [
+        "\u00a77Blocking destroys arrows that hit",
+        "\u00a77you"
+      ],
+      [
+        "\u00a77Blocking destroys arrows hitting",
+        "\u00a77you. Destroying arrows this way",
+        "\u00a77heals \u00a7c1\u2764"
+      ],
+      [
+        "\u00a77Blocking destroys arrows hitting",
+        "\u00a77you. Destroying arrows this way",
+        "\u00a77heals \u00a7c1.5\u2764"
+      ]
+    ],
+    "Name": "\u00a79Bullet Time"
+  },
+  "rogue": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+25% \u00a77and receive \u00a79-10%",
+        "\u00a79\u00a77damage vs. players wearing",
+        "\u00a77\u00a7baqua \u00a77pants"
+      ]
+    ],
+    "Name": "\u00a79Rogue"
+  },
+  "regen_when_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7cRegen I \u00a77(5s) when hit"
+      ],
+      [
+        "\u00a77Gain \u00a7cRegen I \u00a77(8s) when hit"
+      ],
+      [
+        "\u00a77Gain \u00a7cRegen II \u00a77(8s) when hit"
+      ]
+    ],
+    "Name": "\u00a79Peroxide"
+  },
+  "less_damage_when_high_bounty": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-2% \u00a77damage per",
+        "\u00a761,000g bounty"
+      ],
+      [
+        "\u00a77Receive \u00a79-3% \u00a77damage per",
+        "\u00a761,000g bounty"
+      ],
+      [
+        "\u00a77Receive \u00a79-4% \u00a77damage per",
+        "\u00a761,000g bounty"
+      ]
+    ],
+    "Name": "\u00a79Billy"
+  },
+  "solitude": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-40% \u00a77damage when only",
+        "\u00a77one other player is within 7",
+        "\u00a77blocks"
+      ],
+      [
+        "\u00a77Receive \u00a79-50% \u00a77damage when two",
+        "\u00a77or less players are within 7",
+        "\u00a77blocks"
+      ],
+      [
+        "\u00a77Receive \u00a79-60% \u00a77damage when two",
+        "\u00a77or less players are within 7",
+        "\u00a77blocks"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Solitude"
+  },
+  "melee_combo_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Every \u00a7efourth \u00a77strike deals",
+        "\u00a77\u00a7c+20% \u00a77damage"
+      ],
+      [
+        "\u00a77Every \u00a7ethird \u00a77strike deals",
+        "\u00a77\u00a7c+30% \u00a77damage"
+      ],
+      [
+        "\u00a77Every \u00a7ethird \u00a77strike deals",
+        "\u00a77\u00a7c+45% \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Combo: Damage"
+  },
+  "etspeed_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7eSpeed I \u00a77(4s) on kill"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed I \u00a77(7s) on kill"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed I \u00a77(12s) on kill"
+      ]
+    ],
+    "Name": "\u00a79Speedy Kill"
+  },
+  "melee_stun": {
+    "Descriptions": [
+      [
+        "\u00a77The \u00a7efifth \u00a77strike on an enemy",
+        "\u00a77stuns them for 0.5 seconds",
+        "\u00a77\u00a7o(Can only be stunned every 8s)"
+      ],
+      [
+        "\u00a77The \u00a7efifth \u00a77strike on an enemy",
+        "\u00a77stuns them for 0.8 seconds",
+        "\u00a77\u00a7o(Can only be stunned every 8s)"
+      ],
+      [
+        "\u00a77The \u00a7efifth \u00a77strike on an enemy",
+        "\u00a77stuns them for 1.5 seconds"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Combo: Stun"
+  },
+  "jump_spammer": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+10% \u00a77damage while midair",
+        "\u00a77on arrow hit"
+      ],
+      [
+        "\u00a77While midair, your arrows deal",
+        "\u00a77\u00a7c+16% \u00a77damage. While midair,",
+        "\u00a77receive \u00a79-10% \u00a77damage from melee",
+        "\u00a77and ranged attacks"
+      ],
+      [
+        "\u00a77While midair, your arrows deal",
+        "\u00a77\u00a7c+24% \u00a77damage. While midair,",
+        "\u00a77receive \u00a79-20% \u00a77damage from melee",
+        "\u00a77and ranged attacks"
+      ]
+    ],
+    "Name": "\u00a79Jumpspammer"
+  },
+  "explosive_chickens": {
+    "Descriptions": [
+      [
+        "\u00a77Arrows spawn an explosive chicken"
+      ],
+      [
+        "\u00a77Arrows spawn many explosive",
+        "\u00a77chickens"
+      ],
+      [
+        "\u00a77Arrows spawn too many explosive",
+        "\u00a77chickens"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Devil Chicks!"
+  },
+  "respawn_with_resistance": {
+    "Descriptions": [
+      [
+        "\u00a77Respawn with \u00a79Resistance I",
+        "\u00a79\u00a77(20s)"
+      ],
+      [
+        "\u00a77Spawn with \u00a79Resistance I \u00a77(30s)"
+      ],
+      [
+        "\u00a77Spawn with \u00a79Resistance II \u00a77(40s)"
+      ]
+    ],
+    "Name": "\u00a79Respawn: Resistance"
+  },
+  "perma_speed": {
+    "Descriptions": [
+      [
+        "\u00a77Move \u00a7e4% faster \u00a77at all times"
+      ],
+      [
+        "\u00a77Move \u00a7e10% faster \u00a77at all times"
+      ],
+      [
+        "\u00a77Move \u00a7e20% faster \u00a77at all times"
+      ]
+    ],
+    "Name": "\u00a79Gotta go fast"
+  },
+  "passive_health_regen": {
+    "Descriptions": [
+      [
+        "\u00a77Passively regain \u00a7c1\u2764 \u00a77every 5",
+        "\u00a77seconds"
+      ],
+      [
+        "\u00a77Passively regain \u00a7c1\u2764 \u00a77every 4",
+        "\u00a77seconds"
+      ],
+      [
+        "\u00a77Passively regain \u00a7c1\u2764 \u00a77every 3",
+        "\u00a77seconds"
+      ]
+    ],
+    "Name": "\u00a79Boo-boo"
+  },
+  "bow_weakness_on_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Apply \u00a7cWeakness II \u00a77(6s) on hit"
+      ],
+      [
+        "\u00a77Apply \u00a7cWeakness III \u00a77(11s) on",
+        "\u00a77hit"
+      ],
+      [
+        "\u00a77Apply \u00a7cWeakness IV \u00a77(16s) on hit"
+      ]
+    ],
+    "Name": "\u00a79Wasp"
+  },
+  "pin_down": {
+    "Descriptions": [
+      [
+        "\u00a77Fully charged shots pin the victim",
+        "\u00a77down, preventing them from gaining",
+        "\u00a77Speed and Jump Boost (3s)"
+      ],
+      [
+        "\u00a77Fully charged shots pin the victim",
+        "\u00a77down, preventing them from gaining",
+        "\u00a77Speed and Jump Boost (5s)"
+      ],
+      [
+        "\u00a77Fully charged shots pin the victim",
+        "\u00a77down, preventing them from gaining",
+        "\u00a77Speed and Jump Boost (10s)"
+      ]
+    ],
+    "Name": "\u00a79Pin down"
+  },
+  "melee_damage_vs_high_hp": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+7% \u00a77damage vs. players",
+        "\u00a77above 50% HP"
+      ],
+      [
+        "\u00a77Deal \u00a7c+13% \u00a77damage vs. players",
+        "\u00a77above 50% HP"
+      ],
+      [
+        "\u00a77Deal \u00a7c+20% \u00a77damage vs. players",
+        "\u00a77above 50% HP"
+      ]
+    ],
+    "Name": "\u00a79King Buster"
+  },
+  "melee_launch": {
+    "Descriptions": [
+      [
+        "\u00a77Hitting a player launches them up",
+        "\u00a77in the air (30s cooldown)"
+      ],
+      [
+        "\u00a77Hitting a player launches them up",
+        "\u00a77in the air (25s cooldown)"
+      ],
+      [
+        "\u00a77Hitting a player launches them up",
+        "\u00a77in the air (20s cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79The Punch"
+  },
+  "speed_when_hit_few_times": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7eSpeed II \u00a77(3s) when hit",
+        "\u00a77\u00a7e4 times \u00a77by a player"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed II \u00a77(5s) when hit",
+        "\u00a77\u00a7e3 times \u00a77by a player"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed II \u00a77(7s) when hit",
+        "\u00a77\u00a7e2 times \u00a77by a player"
+      ]
+    ],
+    "Name": "\u00a79Counter-Offensive"
+  },
+  "phoenix": {
+    "Descriptions": [
+      [
+        "\u00a77Lethal attacks against you consume",
+        "\u00a77\u00a7c1 life \u00a77of this item. Instead",
+        "\u00a77of dying, regenerate to full",
+        "\u00a77health."
+      ],
+      [
+        "\u00a77Lethal attacks against you consume",
+        "\u00a77\u00a7c1 life \u00a77of this item. Instead",
+        "\u00a77of dying, heal to \u00a7afull HP\u00a77 and",
+        "\u00a77gain a \u00a7c+0% \u00a77damage (12s)",
+        "\u00a77buff\u00a77.",
+        "\u00a77\u00a7o(Can revive once per life)"
+      ],
+      [
+        "\u00a77Lethal attacks against you consume",
+        "\u00a77\u00a7c1 life \u00a77of this item. Instead",
+        "\u00a77of dying, regenerate to full",
+        "\u00a77health and gain a stacking \u00a7c+15%",
+        "\u00a7c\u00a77damage (10s) buff."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Phoenix"
+  },
+  "combo_xp": {
+    "Descriptions": [
+      [
+        "\u00a77Every \u00a7efifth \u00a77strike rewards",
+        "\u00a77\u00a7b+20 XP"
+      ],
+      [
+        "\u00a77Every \u00a7efifth \u00a77strike rewards",
+        "\u00a77\u00a7b+28 XP"
+      ],
+      [
+        "\u00a77Every \u00a7efifth \u00a77strike rewards",
+        "\u00a77\u00a7b+36 XP"
+      ]
+    ],
+    "Name": "\u00a79Combo: XP"
+  },
+  "melee_bleed": {
+    "Descriptions": [
+      [
+        "\u00a77Strikes bleed enemies for \u00a7c4s\u00a77,",
+        "\u00a77stopping them from gaining",
+        "\u00a77\u00a76Absorption \u2764 \u00a77and slowing them.",
+        "\u00a77(6s cooldown)"
+      ],
+      [
+        "\u00a77Strikes bleed enemies for \u00a7c4s\u00a77,",
+        "\u00a77stopping them from gaining",
+        "\u00a77\u00a76Absorption \u2764 \u00a77and slowing them.",
+        "\u00a77(4s cooldown)"
+      ],
+      [
+        "\u00a77Strikes bleed enemies for \u00a7c5s\u00a77,",
+        "\u00a77stopping them from gaining",
+        "\u00a77\u00a76Absorption \u2764 \u00a77and slowing them.",
+        "\u00a77(2s cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Hemorrhage"
+  },
+  "melee_damage_vs_low_hp": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+6% \u00a77damage vs. players",
+        "\u00a77below 50% HP"
+      ],
+      [
+        "\u00a77Deal \u00a7c+12% \u00a77damage vs. players",
+        "\u00a77below 50% HP"
+      ],
+      [
+        "\u00a77Deal \u00a7c+18% \u00a77damage vs. players",
+        "\u00a77below 50% HP"
+      ]
+    ],
+    "Name": "\u00a79Punisher"
+  },
+  "melee_healer": {
+    "Descriptions": [
+      [
+        "\u00a77Your hits \u00a7aheal \u00a77you for \u00a7c0.5\u2764",
+        "\u00a77and them for \u00a7c2\u2764 \u00a77(1s cd)"
+      ],
+      [
+        "\u00a77Your hits \u00a7aheal \u00a77you for \u00a7c0.75\u2764",
+        "\u00a77and them for \u00a7c4\u2764 \u00a77(1s cd)"
+      ],
+      [
+        "\u00a77Your hits \u00a7aheal \u00a77you for \u00a7c1\u2764",
+        "\u00a77and them for \u00a7c5\u2764 \u00a77(1s cd)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Healer"
+  },
+  "tough_crew": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-15% \u00a77damage if there",
+        "\u00a77are at least 3 players wearing",
+        "\u00a77\u00a7baqua \u00a77pants near you"
+      ]
+    ],
+    "Name": "\u00a79Tough Crew"
+  },
+  "pullbow": {
+    "Descriptions": [
+      [
+        "\u00a77Hitting a player pulls them toward",
+        "\u00a77you (8s cooldown per player)"
+      ],
+      [
+        "\u00a77Hitting a player pulls them and",
+        "\u00a77nearby players toward you (8s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77Hitting a player pulls them and",
+        "\u00a77nearby players toward you (8s",
+        "\u00a77cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Pullbow"
+  },
+  "telebow": {
+    "Descriptions": [
+      [
+        "\u00a77Sneak to shoot a teleportation",
+        "\u00a77arrow (90s cooldown, -3s per bow",
+        "\u00a77hit)"
+      ],
+      [
+        "\u00a77Sneak to shoot a teleportation",
+        "\u00a77arrow (45s cooldown, -3s per bow",
+        "\u00a77hit)"
+      ],
+      [
+        "\u00a77Sneak to shoot a teleportation",
+        "\u00a77arrow (20s cooldown, -3s per bow",
+        "\u00a77hit)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Telebow"
+  },
+  "melee_literally_p2w": {
+    "Descriptions": [
+      [
+        "\u00a77Hits with this swords deal \u00a7c1.33x",
+        "\u00a7cdamage \u00a77but cost \u00a76100g"
+      ],
+      [
+        "\u00a77Hits with this swords deal \u00a7c1.67x",
+        "\u00a7cdamage \u00a77but cost \u00a76200g"
+      ],
+      [
+        "\u00a77Hits with this swords deal \u00a7c2x",
+        "\u00a7cdamage \u00a77but cost \u00a76350g"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Billionaire"
+  },
+  "sniper": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+9% \u00a77damage when shooting",
+        "\u00a77from over \u00a7f24 \u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+18% \u00a77damage when shooting",
+        "\u00a77from over \u00a7f24 \u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+30% \u00a77damage when shooting",
+        "\u00a77from over \u00a7f24 \u00a77blocks"
+      ]
+    ],
+    "Name": "\u00a79Sniper"
+  },
+  "volley": {
+    "Descriptions": [
+      [
+        "\u00a77Shoot \u00a7f3 arrows \u00a77at once"
+      ],
+      [
+        "\u00a77Shoot \u00a7f4 arrows \u00a77at once"
+      ],
+      [
+        "\u00a77Shoot \u00a7f5 arrows \u00a77at once"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Volley"
+  },
+  "melee_knockback": {
+    "Descriptions": [
+      [
+        "\u00a77Increases knockback taken by",
+        "\u00a77enemies by \u00a7f3 blocks"
+      ],
+      [
+        "\u00a77Increases knockback taken by",
+        "\u00a77enemies by \u00a7f6 blocks"
+      ],
+      [
+        "\u00a77Increases knockback taken by",
+        "\u00a77enemies by \u00a7f9 blocks"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Knockback"
+  },
+  "royalty": {
+    "Descriptions": [
+      [
+        "\u00a77Earn \u00a7b+10% XP \u00a77from kills"
+      ]
+    ],
+    "Name": "\u00a79Royalty"
+  },
+  "stereo": {
+    "Descriptions": [
+      [
+        "\u00a77You play a tune while cruising",
+        "\u00a77around"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Stereo"
+  },
+  "mind_assault": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a75-60% \u00a77damage. Once",
+        "\u00a77applied, deal \u00a7c+0.75\u2764 \u00a77damage",
+        "\u00a77per player with leather armor",
+        "\u00a77within \u00a7f11 blocks\u00a77, up to \u00a7c+8\u2764",
+        "\u00a7c\u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Mind Assault"
+  },
+  "melee_crit_midair": {
+    "Descriptions": [
+      [
+        "\u00a77You can now critical hit on the",
+        "\u00a77ground. \u00a7a12% chance \u00a77to crit for",
+        "\u00a77\u00a7c50% extra \u00a77damage"
+      ],
+      [
+        "\u00a77You can now critical hit on the",
+        "\u00a77ground. \u00a7a20% chance \u00a77to crit for",
+        "\u00a77\u00a7c50% extra \u00a77damage"
+      ],
+      [
+        "\u00a77You can now critical hit on the",
+        "\u00a77ground. \u00a7a30% chance \u00a77to crit for",
+        "\u00a77\u00a7c50% extra \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Berserker"
+  },
+  "less_damage_on_grass": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-5% \u00a77damage when you or",
+        "\u00a77your victims are standing on grass",
+        "\u00a7aPerma \u00a7cRegen I \u00a7aon grass!"
+      ],
+      [
+        "\u00a77Receive \u00a79-7% \u00a77damage when you or",
+        "\u00a77your victims are standing on grass",
+        "\u00a7aPerma \u00a7cRegen I \u00a7aon grass!"
+      ],
+      [
+        "\u00a77Receive \u00a79-15% \u00a77damage when you",
+        "\u00a77or your victims are standing on",
+        "\u00a77grass",
+        "\u00a7aPerma \u00a7cRegen I \u00a7aon grass!"
+      ]
+    ],
+    "Name": "\u00a79Cricket"
+  },
+  "regen_speed_when_low": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7eSpeed I \u00a77(5s) and \u00a7cRegen",
+        "\u00a7cII \u00a77(3s) when reaching \u00a7c3\u2764",
+        "\u00a7c\u00a77(45s cooldown)"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed II \u00a77(5s) and \u00a7cRegen",
+        "\u00a7cIII \u00a77(3s) when reaching \u00a7c3\u2764",
+        "\u00a7c\u00a77(45s cooldown)"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed II \u00a77(7s) and \u00a7cRegen",
+        "\u00a7cIII \u00a77(5s) when reaching \u00a7c3\u2764",
+        "\u00a7c\u00a77(45s cooldown)"
+      ]
+    ],
+    "Name": "\u00a79Revitalize"
+  },
+  "gain_arrows_on_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Get \u00a7f1 arrow \u00a77on arrow hit"
+      ],
+      [
+        "\u00a77Get \u00a7f3 arrows \u00a77on arrow hit"
+      ],
+      [
+        "\u00a77Get \u00a7f8 arrows \u00a77on arrow hit"
+      ]
+    ],
+    "Name": "\u00a79Bottomless Quiver"
+  },
+  "rod_true_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c0.5\u2764 \u00a77true damage on rod",
+        "\u00a77hit"
+      ]
+    ],
+    "Name": "\u00a79Grandmaster"
+  },
+  "first_shot": {
+    "Descriptions": [
+      [
+        "\u00a77First arrow hit on a player deals",
+        "\u00a77\u00a7c+10% damage"
+      ],
+      [
+        "\u00a77First arrow hit on a player deals",
+        "\u00a77\u00a7c+16% damage"
+      ],
+      [
+        "\u00a77First arrow hit on a player deals",
+        "\u00a77\u00a7c+25% damage"
+      ]
+    ],
+    "Name": "\u00a79First Shot"
+  },
+  "melee_heal_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Heal \u00a7c0.25\u2764 \u00a77on kill"
+      ],
+      [
+        "\u00a77Heal \u00a7c0.5\u2764 \u00a77on kill"
+      ],
+      [
+        "\u00a77Heal \u00a7c1\u2764 \u00a77on kill"
+      ]
+    ],
+    "Name": "\u00a79Guts"
+  },
+  "melee_avenge": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+8% \u00a77damage vs. the last",
+        "\u00a77player who killed you"
+      ],
+      [
+        "\u00a77Deal \u00a7c+15% \u00a77damage vs. the last",
+        "\u00a77player who killed you"
+      ],
+      [
+        "\u00a77Deal \u00a7c+25% \u00a77damage vs. the last",
+        "\u00a77player who killed you"
+      ]
+    ],
+    "Name": "\u00a79Revengeance"
+  },
+  "bow_combo_speed": {
+    "Descriptions": [
+      [
+        "\u00a77Hitting \u00a7f3 \u00a77shots without",
+        "\u00a77missing grants \u00a7eSpeed II \u00a77(4s)"
+      ],
+      [
+        "\u00a77Hitting \u00a7f2 \u00a77shots without",
+        "\u00a77missing grants \u00a7eSpeed III \u00a77(4s)"
+      ],
+      [
+        "\u00a77Hitting \u00a7f2 \u00a77shots without",
+        "\u00a77missing grants \u00a7eSpeed IV \u00a77(4s)"
+      ]
+    ],
+    "Name": "\u00a79Faster than their shadow"
+  },
+  "bow_spammer": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+9% \u00a77damage when shooting",
+        "\u00a77within \u00a7f8 \u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+15% \u00a77damage when shooting",
+        "\u00a77within \u00a7f8 \u00a77blocks"
+      ],
+      [
+        "\u00a77Deal \u00a7c+21% \u00a77damage when shooting",
+        "\u00a77within \u00a7f8 \u00a77blocks"
+      ]
+    ],
+    "Name": "\u00a79Spammer and Proud"
+  },
+  "parasite": {
+    "Descriptions": [
+      [
+        "\u00a77Heal \u00a7c0.25\u2764 \u00a77on arrow hit"
+      ],
+      [
+        "\u00a77Heal \u00a7c0.5\u2764 \u00a77on arrow hit"
+      ],
+      [
+        "\u00a77Heal \u00a7c1.0\u2764 \u00a77on arrow hit"
+      ]
+    ],
+    "Name": "\u00a79Parasite"
+  },
+  "bow_slow": {
+    "Descriptions": [
+      [
+        "\u00a77Arrow shots grant you \u00a7eSpeed I",
+        "\u00a7e\u00a77(s)"
+      ],
+      [
+        "\u00a77Arrow shots grant you \u00a7eSpeed I",
+        "\u00a7e\u00a77(5s) and apply \u00a79Slowness I",
+        "\u00a79\u00a77(3s)"
+      ],
+      [
+        "\u00a77Arrow shots grant you \u00a7eSpeed II",
+        "\u00a7e\u00a77(7s) and apply \u00a79Slowness I",
+        "\u00a79\u00a77(3s)"
+      ]
+    ],
+    "Name": "\u00a79Sprint Drain"
+  },
+  "melee_damage_vs_bounties": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+7% \u00a77damage vs. players",
+        "\u00a77with a bounty"
+      ],
+      [
+        "\u00a77Deal \u00a7c+15% \u00a77damage vs. players",
+        "\u00a77with a bounty"
+      ],
+      [
+        "\u00a77Deal \u00a7c+25% \u00a77damage vs. players",
+        "\u00a77with a bounty"
+      ]
+    ],
+    "Name": "\u00a79Bounty Reaper"
+  },
+  "resistance_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7eResistance I \u00a77(2s\u00a77) on",
+        "\u00a77kill"
+      ],
+      [
+        "\u00a77Gain \u00a7eResistance I \u00a77(3s\u00a77) on",
+        "\u00a77kill"
+      ],
+      [
+        "\u00a77Gain \u00a7eResistance I \u00a77(5s\u00a77) on",
+        "\u00a77kill"
+      ]
+    ],
+    "Name": "\u00a79Counter-Janitor"
+  },
+  "regen_when_ooc": {
+    "Descriptions": [
+      [
+        "\u00a77Regain all \u00a7c\u2764 \u00a77when out of",
+        "\u00a77combat"
+      ],
+      [
+        "\u00a77Regain all \u00a7c\u2764 \u00a77when out of",
+        "\u00a77combat. Gain \u00a7cRegen IV \u00a77(1s)",
+        "\u00a77when entering combat"
+      ],
+      [
+        "\u00a77Regain all \u00a7c\u2764 \u00a77when out of",
+        "\u00a77combat. Gain \u00a7cRegen IV \u00a77(2s)",
+        "\u00a77when entering combat"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Gomraw's Heart"
+  },
+  "wolf_pack": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn a \u00a7cWolf \u00a77every 4 kills.",
+        "\u00a77Can have up to \u00a7c5 \u00a77wolves at",
+        "\u00a77once"
+      ],
+      [
+        "\u00a77Spawn a \u00a7cWolf \u00a77every 3 kills.",
+        "\u00a77Can have up to \u00a7c7 \u00a77wolves at",
+        "\u00a77once"
+      ],
+      [
+        "\u00a77Spawn a \u00a7cWolf \u00a77every 3 kills.",
+        "\u00a77Can have up to \u00a7c9 \u00a77wolves at",
+        "\u00a77once"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Wolf Pack"
+  },
+  "counter_bounty_hunter": {
+    "Descriptions": [
+      [
+        "\u00a77Players using the \u00a76Bounty Hunter",
+        "\u00a76\u00a77perk only deal half their bonus",
+        "\u00a77damage against you"
+      ],
+      [
+        "\u00a77Players using the \u00a76Bounty Hunter",
+        "\u00a76\u00a77perk do not deal bonus damage",
+        "\u00a77against you"
+      ],
+      [
+        "\u00a77Players using the \u00a76Bounty Hunter",
+        "\u00a76\u00a77perk do not deal bonus damage",
+        "\u00a77against you and overall deal",
+        "\u00a77\u00a79-20% \u00a77damage to you"
+      ]
+    ],
+    "Name": "\u00a79Hunt the Hunter"
+  },
+  "higher_max_hp": {
+    "Descriptions": [
+      [
+        "\u00a77Increase your max health by",
+        "\u00a77\u00a7c0.25\u2764"
+      ],
+      [
+        "\u00a77Increase your max health by \u00a7c0.5\u2764"
+      ],
+      [
+        "\u00a77Increase your max health by \u00a7c1\u2764"
+      ]
+    ],
+    "Name": "\u00a79Hearts"
+  },
+  "fishing_rod_kb": {
+    "Descriptions": [
+      [
+        "\u00a77Your fishing rod hooks knock back",
+        "\u00a77players"
+      ]
+    ],
+    "Name": "\u00a79Rodback"
+  },
+  "melee_lightning": {
+    "Descriptions": [
+      [
+        "\u00a77Each \u00a7efifth \u00a77hit strikes",
+        "\u00a77\u00a7elightning \u00a77for \u00a7c1.5\u2764\u00a77.",
+        "\u00a77\u00a7oLightning deals true damage"
+      ],
+      [
+        "\u00a77Each \u00a7efourth \u00a77hit strikes",
+        "\u00a77\u00a7elightning \u00a77for \u00a7c2\u2764\u00a77.",
+        "\u00a77\u00a7oLightning deals true damage"
+      ],
+      [
+        "\u00a77Every \u00a7efourth \u00a77hit strikes",
+        "\u00a77\u00a7elightning \u00a77for \u00a7c1\u2764 \u00a77+ \u00a7c1\u2764",
+        "\u00a7c\u00a77per \u00a7bdiamond piece \u00a77on your",
+        "\u00a77victim.",
+        "\u00a77\u00a7oLightning deals true damage"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Combo: Perun's Wrath"
+  },
+  "explosive_bow": {
+    "Descriptions": [
+      [
+        "\u00a77Arrows go POP! (5s cooldown)"
+      ],
+      [
+        "\u00a77Arrows go BOOM! (3s cooldown)"
+      ],
+      [
+        "\u00a77Arrows go BOOM! (5s cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Explosive"
+  },
+  "damage_per_arrow": {
+    "Descriptions": [
+      [
+        "\u00a77Deals \u00a7c+12% \u00a77damage but uses \u00a7f3",
+        "\u00a7farrows \u00a77per shot, if available"
+      ],
+      [
+        "\u00a77Deals \u00a7c+25% \u00a77damage but uses \u00a7f5",
+        "\u00a7farrows \u00a77per shot, if available"
+      ],
+      [
+        "\u00a77Deals \u00a7c+60% \u00a77damage but uses \u00a7f8",
+        "\u00a7farrows \u00a77per shot, if available"
+      ]
+    ],
+    "Name": "\u00a79Arrow Armory"
+  },
+  "escape_pod": {
+    "Descriptions": [
+      [
+        "\u00a77When hit below \u00a7c2 \u2764\u00a77, launch",
+        "\u00a77into the air dealing \u00a7c1\u2764 \u00a77damage",
+        "\u00a77to nearby enemies and gaining",
+        "\u00a77\u00a7aRegen II \u00a77(20s). Can launch",
+        "\u00a77once per life."
+      ],
+      [
+        "\u00a77When hit below \u00a7c2 \u2764\u00a77, launch",
+        "\u00a77into the air dealing \u00a7c2\u2764 \u00a77damage",
+        "\u00a77to nearby enemies and gaining",
+        "\u00a77\u00a7aRegen III \u00a77(25s). Can launch",
+        "\u00a77once per life."
+      ],
+      [
+        "\u00a77When hit below \u00a7c2 \u2764\u00a77, launch",
+        "\u00a77into the air dealing \u00a7c3\u2764 \u00a77damage",
+        "\u00a77to nearby enemies and gaining",
+        "\u00a77\u00a7aRegen IV \u00a77(30s). Can launch",
+        "\u00a77once per life."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Escape Pod"
+  },
+  "less_damage_when_swimming": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-25% \u00a77melee damage",
+        "\u00a77while swimming in water or lava"
+      ],
+      [
+        "\u00a77Receive \u00a79-40% \u00a77melee damage",
+        "\u00a77while swimming in water or lava"
+      ],
+      [
+        "\u00a77Receive \u00a79-60% \u00a77melee damage",
+        "\u00a77while swimming in water or lava"
+      ]
+    ],
+    "Name": "\u00a79McSwimmer"
+  },
+  "instant_shot": {
+    "Descriptions": [
+      [
+        "\u00a77One shot per second, this bow is",
+        "\u00a77automatically fully drawn and",
+        "\u00a77grants \u00a7aJump Boost II \u00a77(2s)"
+      ],
+      [
+        "\u00a77One shot per second, this bow is",
+        "\u00a77automatically fully drawn and",
+        "\u00a77grants \u00a7aJump Boost III \u00a77(2s)"
+      ],
+      [
+        "\u00a77One shot per second, this bow is",
+        "\u00a77automatically fully drawn and",
+        "\u00a77grants \u00a7aJump Boost IV \u00a77(2s)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Mega Longbow"
+  },
+  "mixed_combat": {
+    "Descriptions": [
+      [
+        "\u00a77Shooting an enemy empowers your",
+        "\u00a77next melee strike against them for",
+        "\u00a77\u00a7c+10% \u00a77extra damage"
+      ],
+      [
+        "\u00a77Shooting an enemy empowers your",
+        "\u00a77next melee strike against them for",
+        "\u00a77\u00a7c+20% \u00a77extra damage"
+      ],
+      [
+        "\u00a77Shooting an enemy empowers your",
+        "\u00a77next melee strike against them for",
+        "\u00a77\u00a7c+30% \u00a77extra damage"
+      ]
+    ],
+    "Name": "\u00a79Mixed Combat"
+  },
+  "arrow_true_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Deals \u00a7c0.5\u2764 \u00a77extra true damage"
+      ],
+      [
+        "\u00a77Deals \u00a7c1.0\u2764 \u00a77extra true damage"
+      ],
+      [
+        "\u00a77Deals \u00a7c1.5\u2764 \u00a77extra true damage"
+      ]
+    ],
+    "Name": "\u00a79Chipping"
+  },
+  "melee_speed_on_hit": {
+    "Descriptions": [
+      [
+        "\u00a77Gain Speed I for \u00a7e5s \u00a77on hit (3s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77Gain Speed I for \u00a7e7s \u00a77on hit (2s",
+        "\u00a77cooldown)"
+      ],
+      [
+        "\u00a77Gain Speed I for \u00a7e9s \u00a77on hit (1s",
+        "\u00a77cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Speedy Hit"
+  },
+  "superspeed_when_low": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7eSpeed III \u00a77(3s) when",
+        "\u00a77reaching \u00a7c3\u2764 \u00a77(10s cooldown)"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed III \u00a77(6s) when",
+        "\u00a77reaching \u00a7c4\u2764 \u00a77(10s cooldown)"
+      ],
+      [
+        "\u00a77Gain \u00a7eSpeed III \u00a77(9s) when",
+        "\u00a77reaching \u00a7c4\u2764 \u00a77(10s cooldown)"
+      ]
+    ],
+    "Name": "\u00a79Danger Close"
+  },
+  "plain_melee_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c+4% \u00a77melee damage"
+      ],
+      [
+        "\u00a77Deal \u00a7c+7% \u00a77melee damage"
+      ],
+      [
+        "\u00a77Deal \u00a7c+12% \u00a77melee damage"
+      ]
+    ],
+    "Name": "\u00a79Sharp"
+  },
+  "sneak_teleport": {
+    "Descriptions": [
+      [
+        "\u00a77Sneaking teleports you behind",
+        "\u00a77players bowing you. (10s cooldown)"
+      ],
+      [
+        "\u00a77Sneaking teleports you behind your",
+        "\u00a77attacker. (5s cooldown)"
+      ],
+      [
+        "\u00a77Sneaking teleports you behind your",
+        "\u00a77attacker. (3s cooldown)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Assassin"
+  },
+  "resistance_when_low": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a79Resistance I \u00a77(3 seconds)",
+        "\u00a77when reaching \u00a7c3\u2764"
+      ],
+      [
+        "\u00a77Gain \u00a79Resistance II \u00a77(4 seconds)",
+        "\u00a77when reaching \u00a7c3\u2764"
+      ],
+      [
+        "\u00a77Gain \u00a79Resistance III \u00a77(4",
+        "\u00a77seconds) when reaching \u00a7c3\u2764"
+      ]
+    ],
+    "Name": "\u00a79Last Stand"
+  },
+  "singularity": {
+    "Descriptions": [
+      [
+        "\u00a77Hits you receive deal at most \u00a7c2\u2764",
+        "\u00a7c\u00a77damage"
+      ],
+      [
+        "\u00a77Hits you receive deal at most",
+        "\u00a77\u00a7c1.25\u2764 \u00a77damage"
+      ],
+      [
+        "\u00a77Hits you receive deal at most \u00a7c1\u2764",
+        "\u00a7c\u00a77damage"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Singularity"
+  },
+  "refresh_speed_on_kill": {
+    "Descriptions": [
+      [
+        "\u00a77If you have \u00a7eSpeed \u00a77on kill, add",
+        "\u00a77\u00a7e2 \u00a77seconds to its duration.",
+        "\u00a77(Halved for Speed II+, Max 18s)"
+      ],
+      [
+        "\u00a77If you have \u00a7eSpeed \u00a77on kill, add",
+        "\u00a77\u00a7e4 \u00a77seconds to its duration.",
+        "\u00a77(Halved for Speed II+, Max 24s)"
+      ],
+      [
+        "\u00a77If you have \u00a7eSpeed \u00a77on kill, add",
+        "\u00a77\u00a7e6 \u00a77seconds to its duration.",
+        "\u00a77(Halved for Speed II+, Max 30s)"
+      ]
+    ],
+    "Name": "\u00a79Electrolytes"
+  },
+  "gold_break_obsidian": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a76+\u00a767g \u00a77from breaking",
+        "\u00a77obsidian"
+      ],
+      [
+        "\u00a77Gain \u00a76+\u00a7611g \u00a77and \u00a7cRegen III",
+        "\u00a7c\u00a77(2s) from breaking obsidian"
+      ],
+      [
+        "\u00a77Gain \u00a76+\u00a7615g \u00a77and \u00a7cRegen III",
+        "\u00a7c\u00a77(3s) from breaking obsidian"
+      ]
+    ],
+    "Name": "\u00a79Purple Gold"
+  },
+  "pit_mba": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a76+10% gold \u00a77and \u00a7b+10%",
+        "\u00a7bXP \u00a77on kill when there are at",
+        "\u00a77least 5 players within 15 blocks"
+      ],
+      [
+        "\u00a77Receive \u00a76+30% gold \u00a77and \u00a7b+20%",
+        "\u00a7bXP \u00a77on kill when there are at",
+        "\u00a77least 5 players within 15 blocks"
+      ],
+      [
+        "\u00a77Receive \u00a76+50% gold \u00a77and \u00a7b+30%",
+        "\u00a7bXP \u00a77on kill when there are at",
+        "\u00a77least 5 players within 15 blocks"
+      ]
+    ],
+    "Name": "\u00a79Pit MBA"
+  },
+  "grim_reaper": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c2\u2764 \u00a77damage to players",
+        "\u00a77within \u00a7f10 blocks \u00a77right before",
+        "\u00a77the blow that kills them.",
+        "\u00a75Receive -80% rewards from your kills"
+      ]
+    ],
+    "Name": "\u00a79Grim Reaper"
+  },
+  "chance_dont_lose_life": {
+    "Descriptions": [
+      [
+        "\u00a77\u00a7b15% chance \u00a77retain the lives on",
+        "\u00a77your items on death"
+      ],
+      [
+        "\u00a77\u00a7b30% chance \u00a77retain the lives on",
+        "\u00a77your items on death"
+      ],
+      [
+        "\u00a77\u00a7b45% chance \u00a77retain the lives on",
+        "\u00a77your items on death"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Divine Miracle"
+  },
+  "the_blob": {
+    "Descriptions": [
+      [
+        "\u00a77Kills respawn \u00a7aThe Blob\u00a77. This",
+        "\u00a77slimy pet will follow you around",
+        "\u00a77and kill your enemies. \u00a7aThe Blob",
+        "\u00a7a\u00a77grows and gains health for every",
+        "\u00a77enemy you kill."
+      ],
+      [
+        "\u00a77Kills respawn \u00a7aThe Blob\u00a77. This",
+        "\u00a77slimy pet will follow you around",
+        "\u00a77and kill your enemies. \u00a7aThe Blob",
+        "\u00a7a\u00a77grows and gains health for every",
+        "\u00a77enemy you kill."
+      ],
+      [
+        "\u00a77Kills respawn \u00a7aThe Blob\u00a77. This",
+        "\u00a77slimy pet will follow you around",
+        "\u00a77and kill your enemies. \u00a7aThe Blob",
+        "\u00a7a\u00a77grows and gains health for every",
+        "\u00a77enemy you kill."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Pit Blob"
+  },
+  "wood_blocks": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7f16 planks\u00a77. Wood",
+        "\u00a77remains for 30 seconds. Gain \u00a7f+6",
+        "\u00a7fblocks \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7f32 planks\u00a77. Wood",
+        "\u00a77remains for 30 seconds. Gain \u00a7f+12",
+        "\u00a7fblocks \u00a77on kill"
+      ],
+      [
+        "\u00a77Spawn with \u00a7f48 planks\u00a77. Wood",
+        "\u00a77remains for 30 seconds. Gain \u00a7f+18",
+        "\u00a7fblocks \u00a77on kill"
+      ]
+    ],
+    "Name": "\u00a79Creative"
+  },
+  "thorns": {
+    "Descriptions": [
+      [
+        "\u00a77Enemies hitting you receive",
+        "\u00a77\u00a7c0.25\u2764 \u00a77true damage"
+      ],
+      [
+        "\u00a77Enemies hitting you receive",
+        "\u00a77\u00a7c0.375\u2764 \u00a77true damage"
+      ],
+      [
+        "\u00a77Enemies hitting you receive \u00a7c0.5\u2764",
+        "\u00a7c\u00a77true damage"
+      ]
+    ],
+    "Name": "\u00a79Prick"
+  },
+  "worm": {
+    "Descriptions": [
+      [
+        "\u00a77Perma \u00a7eSpeed I \u00a77and \u00a7b+20% XP",
+        "\u00a7b\u00a77from kills in the sewers."
+      ]
+    ],
+    "Name": "\u00a79Worm"
+  },
+  "power_against_crits": {
+    "Descriptions": [
+      [
+        "\u00a77Critical hits against you deal",
+        "\u00a77\u00a7980% \u00a77of the damage they",
+        "\u00a77normally would"
+      ],
+      [
+        "\u00a77Critical hits against you deal",
+        "\u00a77\u00a7965% \u00a77of the damage they",
+        "\u00a77normally would and empower your",
+        "\u00a77next strike for \u00a7c+14% \u00a77damage"
+      ],
+      [
+        "\u00a77Critical hits against you deal",
+        "\u00a77\u00a7950% \u00a77of the damage they",
+        "\u00a77normally would and empower your",
+        "\u00a77next strike for \u00a7c+30% \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Critically Funky"
+  },
+  "lucky_shot": {
+    "Descriptions": [
+      [
+        "\u00a77\u00a7e2% \u00a77chance for a shot to deal",
+        "\u00a77quadruple damage"
+      ],
+      [
+        "\u00a77\u00a7e5% \u00a77chance for a shot to deal",
+        "\u00a77quadruple damage"
+      ],
+      [
+        "\u00a77\u00a7e10% \u00a77chance for a shot to deal",
+        "\u00a77quadruple damage"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Lucky Shot"
+  },
+  "martyrdom": {
+    "Descriptions": [
+      [
+        "\u00a77Leave a handful of \u00a7acreepers",
+        "\u00a7a\u00a77behind on death"
+      ],
+      [
+        "\u00a77Leave lots of \u00a7acreepers \u00a77behind",
+        "\u00a77on death"
+      ],
+      [
+        "\u00a77Leave a ridiculous amount of",
+        "\u00a77\u00a7acreepers \u00a77behind on death"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Martyrdom"
+  },
+  "snowballs": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7b8 snowballs\u00a77. Gain",
+        "\u00a77\u00a7b+8 snowballs \u00a77on kill.",
+        "\u00a77\u00a7bSnowballs \u00a77apply Slowness I",
+        "\u00a77(3s) and deal \u00a7c1 \u00a77true damage",
+        "\u00a77after \u00a7b5 \u00a77hits in a row"
+      ],
+      [
+        "\u00a77Spawn with \u00a7b8 snowballs\u00a77. Refill",
+        "\u00a77on kill. \u00a7bSnowballs \u00a77apply",
+        "\u00a77Slowness I (4s) and deal \u00a7c1",
+        "\u00a7c\u00a77true damage after \u00a7b4 \u00a77hits in",
+        "\u00a77a row"
+      ],
+      [
+        "\u00a77Spawn with \u00a7b16 snowballs\u00a77.",
+        "\u00a77Refill on kill. \u00a7bSnowballs",
+        "\u00a7b\u00a77apply Slowness I (5s) and deal",
+        "\u00a77\u00a7c1 \u00a77true damage after \u00a7b3 \u00a77hits",
+        "\u00a77in a row"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Snowballs"
+  },
+  "punch_once_in_a_while": {
+    "Descriptions": [
+      [
+        "\u00a77Every 3rd shot on a player has",
+        "\u00a77\u00a7bPunch"
+      ],
+      [
+        "\u00a77Every 3rd shot on a player has",
+        "\u00a77\u00a7bPunch V \u00a77and deals \u00a7c+0.5\u2764",
+        "\u00a7c\u00a77extra damage"
+      ],
+      [
+        "\u00a77Every 3rd shot on a player has",
+        "\u00a77\u00a7bPunch VII \u00a77and deals \u00a7c+1\u2764",
+        "\u00a7c\u00a77extra damage"
+      ]
+    ],
+    "Name": "\u00a79Push comes to shove"
+  },
+  "bow_to_true_damage": {
+    "Descriptions": [
+      [
+        "\u00a77Deal \u00a7c25% \u00a77of arrow damage as",
+        "\u00a77true damage (ignores armor)"
+      ],
+      [
+        "\u00a77Deal \u00a7c35% + 0.25\u2764 \u00a77of arrow",
+        "\u00a77damage as true damage (ignores",
+        "\u00a77armor)"
+      ],
+      [
+        "\u00a77Deal \u00a7c45% + 0.5\u2764 \u00a77of arrow",
+        "\u00a77damage as true damage (ignores",
+        "\u00a77armor)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79True Shot"
+  },
+  "hedge_fund": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a76+6g \u00a77on kills. Gain",
+        "\u00a77\u00a76+66g \u00a77from killing players",
+        "\u00a77wearing \u00a7dTier I+ pants\u00a77",
+        "\u00a77Dying costs you \u00a7650g"
+      ]
+    ],
+    "Name": "\u00a79Hedge Fund"
+  },
+  "aegis": {
+    "Descriptions": [
+      [
+        "\u00a77Gain a \u00a79magic shield \u00a77blocking",
+        "\u00a77one blow every 9 seconds"
+      ]
+    ],
+    "Name": "\u00a79Aegis"
+  },
+  "heartripper": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a7c+1 bloodshard \u00a77for each",
+        "\u00a77life you take from mystic items on",
+        "\u00a77kill. Accumulating \u00a7c27",
+        "\u00a7cbloodshards \u00a77consumes 2 lives of",
+        "\u00a77this item and grants \u00a7dfresh",
+        "\u00a7dpants\u00a77."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Heartripper"
+  },
+  "hidden_jewel": {
+    "Descriptions": [
+      [
+        "\u00a77Kill \u00a7c117 \u00a77players to recycle",
+        "\u00a77into Tier I pants with a Tier III",
+        "\u00a77enchant."
+      ]
+    ],
+    "Name": "\u00a79Hidden Jewel"
+  },
+  "melee_hidden_jewel": {
+    "Descriptions": [
+      [],
+      [],
+      [
+        "\u00a77Kill \u00a7c117 \u00a77players to recycle",
+        "\u00a77into Tier I sword with a Tier",
+        "\u00a77III enchant."
+      ]
+    ],
+    "Name": "\u00a79Hidden Jewel"
+  },
+  "snowmen": {
+    "Descriptions": [
+      [
+        "\u00a77Spawn with \u00a7b3 scoops\u00a77. Gain \u00a7b+1",
+        "\u00a7bscoop \u00a77on kill. Placing the scoop",
+        "\u00a77will consume 3 of them to spawn a",
+        "\u00a77Snowman defending you for \u00a7a30",
+        "\u00a7a\u00a77seconds. Can hold up to \u00a7a6",
+        "\u00a7a\u00a7bscoops\u00a77."
+      ],
+      [
+        "\u00a77Spawn with \u00a7b3 scoops\u00a77. Gain \u00a7b+2",
+        "\u00a7bscoops \u00a77on kill. Placing the",
+        "\u00a77scoop will consume 3 of them to",
+        "\u00a77spawn a Snowman defending you for",
+        "\u00a77\u00a7a60 \u00a77seconds. Can hold up to \u00a7a9",
+        "\u00a7a\u00a7bscoops\u00a77."
+      ],
+      [
+        "\u00a77Spawn with \u00a7b3 scoops\u00a77. Gain \u00a7b+3",
+        "\u00a7bscoops \u00a77on kill. Placing the",
+        "\u00a77scoop will consume 3 of them to",
+        "\u00a77spawn a Snowman defending you for",
+        "\u00a77\u00a7a90 \u00a77seconds. Can hold up to",
+        "\u00a77\u00a7a12 \u00a7bscoops\u00a77."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Snowmen Army"
+  },
+  "fractional_reserve": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-1% damage \u00a77per",
+        "\u00a77\u00a7610,000g \u00a77you have (\u00a79-15%\u00a77",
+        "\u00a77max)"
+      ],
+      [
+        "\u00a77Receive \u00a79-1% damage \u00a77per",
+        "\u00a77\u00a7610,000g \u00a77you have (\u00a79-21%\u00a77",
+        "\u00a77max)"
+      ],
+      [
+        "\u00a77Receive \u00a79-1% damage \u00a77per",
+        "\u00a77\u00a7610,000g \u00a77you have (\u00a79-30%\u00a77",
+        "\u00a77max)"
+      ]
+    ],
+    "Name": "\u00a79Fractional Reserve"
+  },
+  "needless_suffering": {
+    "Descriptions": [
+      [
+        "\u00a77Respawn with \u00a7630\u2764 \u00a77absorption.",
+        "\u00a7cCannot heal!"
+      ]
+    ],
+    "Name": "\u00a79Needless Suffering"
+  },
+  "fishers_unite": {
+    "Descriptions": [
+      [
+        "\u00a77You don't deal damage to players",
+        "\u00a77wearing \u00a7baqua \u00a77pants"
+      ]
+    ],
+    "Name": "\u00a79Unite"
+  },
+  "homing": {
+    "Descriptions": [
+      [
+        "\u00a77Your charged shots are homing but",
+        "\u00a77deal \u00a7c40% \u00a77damage"
+      ],
+      [
+        "\u00a77All your shots are homing but deal",
+        "\u00a77\u00a7c50% \u00a77damage"
+      ],
+      [
+        "\u00a77All your shots are homing but deal",
+        "\u00a77\u00a7c60% \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Robinhood"
+  },
+  "lycanthropy": {
+    "Descriptions": [
+      [
+        "\u00a77At night, gain \u00a76+10% gold\u00a77 &",
+        "\u00a77\u00a7b+10% XP \u00a77from kills aswell as",
+        "\u00a77perma \u00a7cRegen II \u00a77& \u00a7eSpeed I\u00a77.",
+        "\u00a77\u00a7cCannot gain speed for a",
+        "\u00a7cday after being worn."
+      ]
+    ],
+    "Name": "\u00a79Lycanthropy"
+  },
+  "sanguisuge": {
+    "Descriptions": [
+      [
+        "\u00a77Heal \u00a7c0.5\u2764 \u00a77when hitting players",
+        "\u00a77wearing leather armor (2s cd).",
+        "\u00a77Heal doubled when \u00a7cVampire \u00a77is",
+        "\u00a77equipped.",
+        "\u00a7cRegeneration never heals."
+      ]
+    ],
+    "Name": "\u00a79Sanguisuge"
+  },
+  "trophy": {
+    "Descriptions": [
+      [
+        "\u00a77Fish \u00a76+2 ingots \u00a77at a time"
+      ]
+    ],
+    "Name": "\u00a79Trophy"
+  },
+  "luck_of_the_pond": {
+    "Descriptions": [
+      [
+        "\u00a77Fish \u00a7b+10% \u00a77faster"
+      ]
+    ],
+    "Name": "\u00a79Luck of the Pond"
+  },
+  "nostalgia": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-10% damage\u00a77.",
+        "\u00a77Equipped diamond armor \u00a7bglows\u00a77."
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Nostalgia"
+  },
+  "golden_handcuffs": {
+    "Descriptions": [
+      [
+        "\u00a77Gain \u00a76+400% gold \u00a77from bounties.",
+        "\u00a77The extra gold is shared with ALL",
+        "\u00a77players on the server.",
+        "\u00a77\u00a7o(min 30 players)"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Golden Handcuffs"
+  },
+  "guardian": {
+    "Descriptions": [
+      [
+        "\u00a77Receive \u00a79-10% \u00a77damage"
+      ]
+    ],
+    "Name": "\u00a79Guardian"
+  },
+  "evil_within": {
+    "Descriptions": [
+      [
+        "\u00a77Your hits ignore Somber"
+      ]
+    ],
+    "Name": "\u00a79Evil Within"
+  },
+  "rgm": {
+    "Descriptions": [
+      [
+        "\u00a77When a player hits you from",
+        "\u00a77above ground \u00a7e3 times \u00a77in a row:",
+        " \u00a77You heal \u00a7c1.25\u2764"
+      ],
+      [
+        "\u00a77When a player hits you from",
+        "\u00a77above ground \u00a7e3 times \u00a77in a row:",
+        " \u00a77You heal \u00a7c1.25\u2764",
+        " \u00a77Gain \u00a7c+1.5\u2764 \u00a77damage vs them for 30s"
+      ],
+      [
+        "\u00a77When a player hits you from",
+        "\u00a77above ground \u00a7e3 times \u00a77in a row:",
+        " \u00a77You heal \u00a7c1.25\u2764",
+        " \u00a77Gain \u00a7c+1.5\u2764 \u00a77damage vs them for 30s",
+        " \u00a77They take \u00a7c0.5\u2764 \u00a77true damage"
+      ]
+    ],
+    "Name": "\u00a7dRARE! \u00a79Retro-Gravity Microcosm"
+  }
+}
