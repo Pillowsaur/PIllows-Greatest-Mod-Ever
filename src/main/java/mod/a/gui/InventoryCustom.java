@@ -36,4 +36,9 @@ public class InventoryCustom extends InventoryBasic {
 
         super.setInventorySlotContents(index, stack);
     }
+
+    @Override
+    public int getInventoryStackLimit() {
+        return 10000;
+    }
 }

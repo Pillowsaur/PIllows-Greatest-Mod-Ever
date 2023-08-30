@@ -20,7 +20,7 @@ public class MinesConfigGui extends BaseGui {
     private ItemStack bombStack;
 
     public MinesConfigGui() {
-        this(5, 3);
+        this(15, 3);
     }
 
     public MinesConfigGui(int wager, int numMines) {
@@ -84,12 +84,12 @@ public class MinesConfigGui extends BaseGui {
     protected void handleMouseClick(Slot slotIn, int slotId, int clickedButton, int clickType) {
         super.handleMouseClick(slotIn, slotId, clickedButton, clickType);
 
-        if (slotId == 12 && wager < 100) {
-            wager++;
+        if (slotId == 12 && wager < 5000) {
+            wager += 5;
             wagerStack.setStackDisplayName(ChatFormatting.GRAY + "Wager: " + ChatFormatting.GOLD + wager + " credit" + (wager > 1 ? "s" : ""));
             wagerStack.stackSize = wager;
         } else if (slotId == 10 && wager > 1) {
-            wager--;
+            wager -= 5;
             wagerStack.setStackDisplayName(ChatFormatting.GRAY + "Wager: " + ChatFormatting.GOLD + wager + " credit" + (wager > 1 ? "s" : ""));
             wagerStack.stackSize = wager;
         } else if (slotId == 14 && numMines > 1) {

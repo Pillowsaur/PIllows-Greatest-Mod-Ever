@@ -62,7 +62,7 @@ public class DONGui extends BaseGui {
             requestInProgress = true;
 
             if (APIHelper.cancelCrate(crateData.getGameId())) {
-                Main.getInstance().setGuiToOpen(new CratesListGui());
+                Minecraft.getMinecraft().thePlayer.closeScreen();
             } else {
                 System.out.println("Failed to cancel crate, please try again");
                 requestInProgress = false;
@@ -80,7 +80,7 @@ public class DONGui extends BaseGui {
                 requestInProgress = false;
             }
         } else if (slotId == 58) {
-            Main.getInstance().setGuiToOpen(new CratesListGui());
+            Minecraft.getMinecraft().thePlayer.closeScreen();
         }
     }
 
@@ -91,6 +91,7 @@ public class DONGui extends BaseGui {
             Data.numCredits = APIHelper.getNumCredits();
         }
         super.onGuiClosed();
+        Main.getInstance().setGuiToOpen(new CratesListGui());
     }
 
     private void sendWinMessage() {

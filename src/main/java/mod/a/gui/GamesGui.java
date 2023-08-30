@@ -50,7 +50,7 @@ public class GamesGui extends BaseGui{
         if (slotId == 10) {
             Main.getInstance().setGuiToOpen(new CratesListGui());
         } else if (slotId == 11) {
-            Main.getInstance().setGuiToOpen(new MysticWellBaseGui(new MysticWellData(null, null, 5, 0), true, 0));
+            Main.getInstance().setGuiToOpen(new MysticWellBaseGui(new MysticWellData(null, null, 0), true, 0));
         } else if (slotId == 12) {
             Main.getInstance().setGuiToOpen(new MinesConfigGui());
         } else if (slotId == 85) {

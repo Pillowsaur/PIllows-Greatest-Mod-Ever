@@ -13,7 +13,7 @@ public class WellPrice {
     }
 
     public WellPrice(double sword, double bow, double pants, double t1, double t2, double t3) {
-        this.swordPrice =sword;
+        this.swordPrice = sword;
         this.bowPrice = bow;
         this.pantsPrice = pants;
         this.t1Price = t1;

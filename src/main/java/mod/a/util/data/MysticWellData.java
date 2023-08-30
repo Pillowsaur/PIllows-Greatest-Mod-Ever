@@ -1,26 +1,25 @@
 package mod.a.util.data;
 
 import com.google.gson.JsonObject;
+import mod.a.util.Data;
 import mod.a.util.ItemHelper;
+import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
 
 public class MysticWellData {
     private final String gameId;
     private final ItemStack item;
-    private final double nextCost;
     private final int itemTier;
 
     public MysticWellData(JsonObject resp) {
         item = ItemHelper.parseMysticItem(resp.getAsJsonObject("item"));
         gameId = resp.get("gameId").getAsString();
-        nextCost = resp.get("nextCost").getAsDouble();
         itemTier = resp.getAsJsonObject("item").get("tier").getAsInt();
     }
 
-    public MysticWellData(ItemStack item, String gameId, double nextCost, int itemTier) {
+    public MysticWellData(ItemStack item, String gameId, int itemTier) {
         this.item = item;
         this.gameId = gameId;
-        this.nextCost = nextCost;
         this.itemTier = itemTier;
     }
 
@@ -33,7 +32,16 @@ public class MysticWellData {
     }
 
     public double getNextCost() {
-        return nextCost;
+        switch (itemTier) {
+            case 0:
+                return Data.wellPrice.getT1Price();
+            case 1:
+                return Data.wellPrice.getT2Price();
+            case 2:
+                return Data.wellPrice.getT3Price();
+            default:
+                return 0;
+        }
     }
 
     public int getItemTier() {

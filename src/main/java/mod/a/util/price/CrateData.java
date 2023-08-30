@@ -78,7 +78,7 @@ public class CrateData {
         rewards.sort(Comparator.comparingInt(RewardData::getLevel));
         Collections.reverse(rewards);
 
-        System.out.println(rewards);
+//        System.out.println(rewards);
 
         crateStack = new ItemStack(Blocks.chest);
         crateStack.setStackDisplayName(getColor() + crateName);

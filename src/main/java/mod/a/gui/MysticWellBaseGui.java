@@ -21,6 +21,7 @@ import net.minecraft.inventory.ContainerChest;
 import net.minecraft.inventory.IInventory;
 import net.minecraft.inventory.Slot;
 import net.minecraft.item.ItemStack;
+import net.minecraft.util.ChatComponentText;
 
 public class MysticWellBaseGui extends BaseGui {
     private final static int[] tierColors = {6, 5, 4, 14};
@@ -131,18 +132,18 @@ public class MysticWellBaseGui extends BaseGui {
                 flag = false;
             }
         } else if (slotId == 57) {
-            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("SWORD"), null, 5, 0);
+            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("SWORD"), null, 0);
             Main.getInstance().setGuiToOpen(new MysticWellBaseGui(data1, true, offset));
         } else if (slotId == 58) {
-            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("BOW"), null, 5, 0);
+            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("BOW"), null, 0);
             Main.getInstance().setGuiToOpen(new MysticWellBaseGui(data1, true, offset));
         } else if (slotId == 59) {
-            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("PANTS", pantsColors[(int) (Math.random() * 5)]), null, 5, 0);
+            MysticWellData data1 = new MysticWellData(ItemHelper.createFreshItem("PANTS", pantsColors[(int) (Math.random() * 5)]), null, 0);
             Main.getInstance().setGuiToOpen(new MysticWellBaseGui(data1, true, offset));
         } else if (slotId == 76) {
             Main.getInstance().setGuiToOpen(new GamesGui());
         } else if (slotId == 20) {
-            MysticWellData data1 = new MysticWellData(null, null, 5, 0);
+            MysticWellData data1 = new MysticWellData(null, null, 0);
             Main.getInstance().setGuiToOpen(new MysticWellBaseGui(data1, true, offset));
         }
     }
@@ -151,7 +152,8 @@ public class MysticWellBaseGui extends BaseGui {
     @Override
     public void onGuiClosed() {
         if (!flag && data.getGameId() != null) {
-            APIHelper.cancelMysticWell(data.getGameId());
+            double reward = APIHelper.cancelMysticWell(data.getGameId());
+            Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("You won " + ChatFormatting.GOLD + reward + " credits " + ChatFormatting.WHITE + "from ").appendSibling(data.getItem().getChatComponent()));
             Data.numCredits = APIHelper.getNumCredits();
         }
 

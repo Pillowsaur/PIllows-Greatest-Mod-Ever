@@ -12,4 +12,15 @@ public class Data {
     public static ArrayList<CrateData> crates = new ArrayList<>();
 
     public static WellPrice wellPrice = new WellPrice();
+
+    public static void loadData() {
+        numCredits = APIHelper.getNumCredits();
+        wellPrice = APIHelper.getWellPrices();
+        crates = APIHelper.getCratePrices();
+
+        cratesMap.clear();
+        for (CrateData crateData : crates) {
+            cratesMap.put(crateData.getCrateId(), crateData);
+        }
+    }
 }

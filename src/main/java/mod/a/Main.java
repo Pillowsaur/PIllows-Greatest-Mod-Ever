@@ -1,10 +1,8 @@
 package mod.a;
 
 import mod.a.commands.*;
-import mod.a.util.APIHelper;
 import mod.a.util.Configuration;
 import mod.a.util.Data;
-import mod.a.util.price.CrateData;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.client.ClientCommandHandler;
@@ -24,14 +22,7 @@ public class Main {
     public void init(FMLInitializationEvent event) {
         instance = this;
 
-        Data.numCredits = APIHelper.getNumCredits();
-        Data.wellPrice = APIHelper.getWellPrices();
-        Data.crates = APIHelper.getCratePrices();
-
-        Data.cratesMap.clear();
-        for (CrateData crateData : Data.crates) {
-            Data.cratesMap.put(crateData.getCrateId(), crateData);
-        }
+        Data.loadData();
 
         MinecraftForge.EVENT_BUS.register(this);
         ClientCommandHandler.instance.registerCommand(new SetKeyCommand());
@@ -39,6 +30,7 @@ public class Main {
         ClientCommandHandler.instance.registerCommand(new MysticWellCommand());
         ClientCommandHandler.instance.registerCommand(new MinesCommand());
         ClientCommandHandler.instance.registerCommand(new GamesCommand());
+        ClientCommandHandler.instance.registerCommand(new ReloadDataCommand());
     }
 
     public static Main getInstance() {

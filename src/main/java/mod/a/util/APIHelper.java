@@ -121,8 +121,8 @@ public class APIHelper {
         return new MysticWellData(resp);
     }
 
-    public static boolean cancelMysticWell(String gameId) {
-        return cancelGame("/api/game/finish_item", gameId) != -1;
+    public static double cancelMysticWell(String gameId) {
+        return cancelGame("/api/game/finish_item", gameId);
     }
 
     public static MinesData newMinesGame(int wager, int numMines) {
